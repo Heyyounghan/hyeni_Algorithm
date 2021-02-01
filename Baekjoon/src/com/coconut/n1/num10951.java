@@ -16,7 +16,7 @@ public class num10951 {
 			
 			//n개의 정수
 			int n= sc.nextInt();
-			int total= ;
+			int total=0 ;
 
 			System.out.println(total);
 			
